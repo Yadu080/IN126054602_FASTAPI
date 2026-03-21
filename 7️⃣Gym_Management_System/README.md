@@ -100,20 +100,8 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## Submission Requirements
 
-* main.py file
-* Swagger screenshots for all endpoints (Q1–Q20)
 
----
-
-## Notes
-
-* All endpoints are tested using Swagger UI
-* Fixed routes are defined before dynamic routes
-* Proper error handling implemented using HTTPException
-
----
 
 ## Author
 
